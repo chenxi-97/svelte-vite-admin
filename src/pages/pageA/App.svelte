@@ -5,7 +5,10 @@
   <title>pageA</title>
 </svelte:head>
 
-<main>123</main>
+<main class="main-content">
+  <div class="title">pageA</div>
+</main>
 
 <style lang="less">
+  @import "./index.less";
 </style>

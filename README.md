@@ -1,4 +1,4 @@
-# Svelte + TS + Vite + Tailwindcss
+# svelte-vite-admin
 
 
 ### 简介
@@ -23,8 +23,8 @@ vscode开发需要在vscode插件市场搜索安装Svelte for VS Code、WindiCSS
 
 ``` json
 "[svelte]": {
-     "editor.defaultFormatter": "svelte.svelte-vscode"
-  },
+  "editor.defaultFormatter": "svelte.svelte-vscode"
+},
 ```
 
 本项目需要在nodejs14.x上启动,首先安装nvm
